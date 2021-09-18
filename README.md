@@ -48,4 +48,3 @@ To see examples of this crate in use, please consult the `examples`
 directory.
 
 [comment]: # (auto_md_to_doc_comments segment end A)
-# dev_bestia_simple_server
