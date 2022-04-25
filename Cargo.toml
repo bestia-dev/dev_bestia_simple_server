@@ -3,6 +3,7 @@ name = "dev_bestia_simple_server"
 version = "2021.918.1640"
 description = "simple server from <https://github.com/steveklabnik/simple-server>"
 authors = ["bestia.dev"]
+homepage = "https://bestia.dev"
 edition = "2018"
 license = "MIT"
 readme = "README.md"
