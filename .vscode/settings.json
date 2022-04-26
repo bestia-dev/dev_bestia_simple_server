@@ -3,6 +3,7 @@
         "cpus",
         "httparse",
         "repr",
+        "rustlang",
         "strftime"
     ]
 }
