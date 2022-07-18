@@ -4,7 +4,7 @@
 
 [comment]: # (auto_cargo_toml_to_md start)
 
-**simple server from <https://github.com/steveklabnik/simple-server>**  
+**simple server from github.com/steveklabnik/simple-server**  
 ***version: 2021.918.1640  date: 2021-09-18 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/dev_bestia_simple_server)***  
 
 
